@@ -1,3 +1,9 @@
+# Assessment: React and APIs with Hooks - Effect Hook
+
+*This repo is my solution for the Qualified assessment for 5.5.2*
+
+*Add effect hook using useEffect to load data from server. Make sure the data is only loaded once and not infinitely looped.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
